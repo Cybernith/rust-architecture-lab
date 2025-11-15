@@ -74,3 +74,7 @@ This lab is about showing how I think when I design **financial flows**:
 - explicit domain errors
 - simple event-sourced style without framework magic
 - clear boundary between domain and service layer
+---
+
+**Author:** Soroosh Morshedi (Cybernith)  
+**Website:** https://sorooshmorshedi.ir

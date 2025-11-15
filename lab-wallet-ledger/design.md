@@ -130,3 +130,7 @@ Future extensions this design supports easily:
 
 The point of this lab is to show a **clear, explicit domain model** that doesn’t hide logic
 in helpers or “magic” framework features.
+---
+
+**Author:** Soroosh Morshedi (Cybernith)  
+**Website:** https://sorooshmorshedi.ir

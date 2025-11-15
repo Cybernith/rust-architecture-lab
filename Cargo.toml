@@ -3,4 +3,6 @@ members = [
     "lab-wallet-ledger",
     "lab-rate-limiter",
     "lab-order-book",
+    "lab-circuit-breaker",
 ]
+resolver = "3"
