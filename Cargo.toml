@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "lab-wallet-ledger",
+    "lab-rate-limiter",
+    "lab-order-book",
+]
